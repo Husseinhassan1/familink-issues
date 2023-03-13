@@ -58,4 +58,4 @@ SocialKidz does not include the following features:
 - Chat or messaging system
 - Video or live streaming
 - Multiple languages support
-- Notifications system
+- Notification system
