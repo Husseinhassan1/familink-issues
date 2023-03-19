@@ -17,7 +17,7 @@ FamiLink includes the following features:
 - Admin dashboard to manage reported content and users
 
 ### 3. User Interface
-SocialKidz includes the following pages:
+FamiLink includes the following pages:
 
 - Home page
 - User profile page
@@ -47,13 +47,13 @@ The search and filter page allows users to search for posts by keywords, topic, 
 The admin dashboard allows the admin to manage reported content and users. The admin can view reported posts, delete them, and ban users who violate the terms of service.
 
 ### 5. Technical Requirements
-SocialKidz is built using the following technologies:
+FamiLink is built using the following technologies:
 
 - Backend: Java, Spring, Pocketbase
 - Frontend: Angular #12
 
 ### 6. Out of scope
-SocialKidz does not include the following features:
+FamiLink does not include the following features:
 
 - Chat or messaging system
 - Video or live streaming
