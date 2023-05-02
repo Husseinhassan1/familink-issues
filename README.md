@@ -49,7 +49,7 @@ The admin dashboard allows the admin to manage reported content and users. The a
 ### 5. Technical Requirements
 FamiLink is built using the following technologies:
 
-- Backend: Java, Spring, Pocketbase
+- Backend: Java, Spring, PostgreSQL
 - Frontend: Angular #12
 
 ### 6. Out of scope
