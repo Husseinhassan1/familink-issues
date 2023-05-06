@@ -29,7 +29,7 @@ FamiLink includes the following pages:
 
 ### 4. Functionality
 #### 4.1. Home page
-The home page shows a feed of all the posts from followed users and topics. Users can scroll through the feed, like and comment on posts, and access the user profile page.
+The home page shows a feed of all the posts. Users can scroll through the feed, like and comment on posts, and access the user profile page.
 
 #### 4.2. User profile page
 The user profile page displays the user's profile picture, name, bio, and posts. Users can edit their profile, follow and unfollow other users, and access the create post page.
